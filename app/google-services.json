@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "583197983990",
+    "firebase_url": "https://hinhnendepapp.firebaseio.com",
+    "project_id": "hinhnendepapp",
+    "storage_bucket": "hinhnendepapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583197983990:android:475242b83b0afe98",
+        "android_client_info": {
+          "package_name": "com.hinhnendep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583197983990-f2bvmgl7d53sp76udcc1hrq0jf8oc37d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJWDznRaWaKwGKqAm2fDduZfX_HVZvzhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
