@@ -36,6 +36,37 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583197983990:android:a929004abdda9018",
+        "android_client_info": {
+          "package_name": "com.hinhnen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583197983990-f2bvmgl7d53sp76udcc1hrq0jf8oc37d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJWDznRaWaKwGKqAm2fDduZfX_HVZvzhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"
