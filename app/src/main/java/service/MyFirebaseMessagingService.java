@@ -11,8 +11,8 @@ import android.util.Log;
 
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
-import com.hinhnendep.MainActivity;
-import com.hinhnendep.R;
+import com.hinh.MainActivity;
+import com.hinh.R;
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
     private static final String TAG = MyFirebaseMessagingService.class.getSimpleName();

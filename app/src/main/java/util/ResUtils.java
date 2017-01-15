@@ -12,7 +12,7 @@ import android.view.Display;
 import android.view.WindowManager;
 import android.widget.Toast;
 
-import com.hinhnendep.R;
+import com.hinh.R;
 
 import java.io.File;
 import java.io.FileOutputStream;

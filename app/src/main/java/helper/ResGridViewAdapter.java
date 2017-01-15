@@ -11,7 +11,7 @@ import android.widget.RelativeLayout;
 
 import com.android.volley.toolbox.ImageLoader;
 import com.android.volley.toolbox.NetworkImageView;
-import com.hinhnendep.R;
+import com.hinh.R;
 
 import java.util.ArrayList;
 import java.util.List;

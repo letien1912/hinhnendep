@@ -14,8 +14,8 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.hinhnendep.R;
-import com.hinhnendep.ResNavDrawerItem;
+import com.hinh.R;
+import com.hinh.ResNavDrawerItem;
 
 import java.util.ArrayList;
 
