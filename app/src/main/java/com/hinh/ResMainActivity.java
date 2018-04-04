@@ -176,36 +176,12 @@ public class ResMainActivity extends BaseActivity {
         }
         // Handle action bar actions click
         switch (item.getItemId()) {
-            case R.id.action_settings:
-                // Selected settings menu item
-                // launch Settings activity
-                Intent intent = new Intent(ResMainActivity.this,
-                        ResSettingsActivity.class);
+            case R.id.redirect:
+                Intent intent = new Intent(this,
+                       MenuActivity.class);
                 startActivity(intent);
                 return true;
 
-            case R.id.rateapp: {
-                String url = "https://play.google.com/store/apps/details?id=com.son.hinhnendep";
-                Intent i = new Intent(Intent.ACTION_VIEW);
-                i.setData(Uri.parse(url));
-                startActivity(i);
-
-            }
-            return true;
-
-            case R.id.more: {
-                String url = "https://play.google.com/store/apps/developer?id=LiveDev";
-                Intent i = new Intent(Intent.ACTION_VIEW);
-                i.setData(Uri.parse(url));
-                startActivity(i);
-
-            }
-            return true;
-
-            case R.id.share: {
-                shareTextUrl();
-            }
-            return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
